@@ -1,0 +1,53 @@
+
+
+body{
+
+    background: #EEE8AA;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+   
+
+
+}
+
+#topo{
+    background: no-repeat;
+    
+}
+
+#menu{
+    background-color: #BDB76B;
+    padding: 0;
+    height: 80px;
+    text-align: bottom;
+    
+
+    
+    
+}
+
+a{
+    text-decoration: none;
+    font-family:  'Roboto', sans-serif;;
+    font-weight: bolder;
+    color: darkblue;
+}
+
+#conteudo{
+    background:#FFFFE0;
+    width: 600px;
+
+}
+td{
+    width: 900px;
+}
+
+h4{
+    color: #BDB76B;
+}
+
+#footer{
+    text-align: center;
+    font-weight: bold;
+}
