@@ -45,10 +45,28 @@ td{
 
 h4{
     color: #BDB76B;
+    margin: 10px;
+}
+
+#principal{
+    background-color: #FFFFE0;
+}
+
+.img{
+    margin: 10px;
+    padding: auto;
+    border-style: solid;
+    border-color: #EEE8AA;
+    border-width: 10px;
 }
 
 #footer{
     text-align: center;
     font-weight: bold;
     height: 1px;
+    
+}
+
+p{
+    margin: 10px;
 }
